@@ -1,3 +1,10 @@
+/*
+* Adam Marshall
+* GAME2303
+* Week 2 Assignment
+* September 12, 2023
+*/
+
 #include <iostream>
 #include <string>
 using namespace std;
