@@ -21,7 +21,7 @@ void reverse(string a)
 	int i;
 
 	for (int i = str.length() - 1; i >= 0; i--)
-		cout << str[i] << "\n";
+		cout << str[i];
 }
 
 void remove(string a)
@@ -36,7 +36,7 @@ void remove(string a)
 		}
 	}
 
-	cout << str << "\n";
+	cout << "\n" << str << "\n";
 }
 
 int main(void)
